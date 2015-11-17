@@ -1,0 +1,21 @@
+{
+	"modListVersion": 2.2.01,
+	"modList": [{
+		"modid": "PneumaticCrap",
+		"name": "PneumaticCrap",
+		"description": "High pressure version of the PneumaticCraft Gas Lift",
+    "version": "${mod_version}",
+    "mcversion": "${minecraft_version}",
+		"url": "https://github.com/AnodeCathode/PneumaticCrap",
+		"updateUrl": "",
+		"authorList": [ "MineMaarten","AnodeCathode"],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [ ],
+		"parent": "",
+		"requiredMods": ["PneumaticCraft"],
+		"dependencies": ["PneumaticCraft"],
+		"dependants": [],
+		"useDependencyInformation": "false"
+	}]
+}
